@@ -44,7 +44,8 @@
     "nodeify": "^1.0.0",
     "quoted-printable": "^1.0.0",
     "utf8": "^2.1.1",
-    "uuencode": "0.0.4"
+    "uuencode": "0.0.4",
+    "imap": "https://github.com/pontago/node-imap.git#master"
   },
   "devDependencies": {
     "hoodiecrow-imap": "^2.1.0",
